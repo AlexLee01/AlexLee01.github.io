@@ -12,7 +12,7 @@ layout: default
 
 > Jun Li is now a Research Assistant in the department of computing at The Hong Kong Polytechnic University (advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/))
 >
-> He completed his Master degree majoring in software engineering from Sun Yat-sen University(SYSU) in August 2016. His supervisor was Prof. Yanghui Rao. After graduation from SYSU, he joined in Ping An Securities and worked as an algorithm engineer for three years.
+> He completed his Master degree majoring in software engineering from Sun Yat-sen University(SYSU) in August 2016. His supervisor was [Prof. Yanghui Rao](https://bda.pku.edu.cn/systd/aszbmck/jhytpjys/gqa_20180702093709523592/index.htm). After graduation from SYSU, he joined in Ping An Securities and worked as an algorithm engineer for three years.
 >
 > His current research interests are Natural language processing(NLP) and Fintech.
 
