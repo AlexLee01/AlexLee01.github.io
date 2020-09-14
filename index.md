@@ -10,9 +10,11 @@ layout: default
 
 ## Brief Biography
 
-> Jun Li is now a Research Assistant at The Hong Kong Polytechnic University (advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/))
+> Jun Li is now a Research Assistant in the department of computing at The Hong Kong Polytechnic University (advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/))
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> He completed his Master degree majoring in software engineering from Sun Yat-sen University(SYSU) in August 2016. His supervisor was Prof. Yanghui Rao. After graduation from SYSU, he joined in Ping An Securities and worked as an algorithm engineer for three years.
+>
+> His current research interests are Natural language processing(NLP) and Fintech.
 
 ### Header 3
 
