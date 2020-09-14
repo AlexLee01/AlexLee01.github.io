@@ -10,7 +10,7 @@ layout: default
 
 ## Brief Biography
 
-> This is a blockquote following a header.
+> Jun Li is now a Research Assistant at The Hong Kong Polytechnic University (advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/))
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
