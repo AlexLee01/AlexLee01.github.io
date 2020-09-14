@@ -2,19 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Correspondence
 
-; There should be whitespace between paragraphs.
+Email: hialexlee@hotmail.com
+Office: PQ822, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
 
-; There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Conference
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+## Brief Biography
 
 > This is a blockquote following a header.
 >
