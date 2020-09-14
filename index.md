@@ -16,22 +16,9 @@ He completed his Master degree majoring in software engineering from Sun Yat-sen
 
 His current research interests are Natural language processing(NLP) and Fintech.
 
-### Header 3
+### Selected Publications
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
