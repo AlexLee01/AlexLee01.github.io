@@ -5,8 +5,8 @@ layout: default
 
 # Correspondence
 
-Email: hialexlee@hotmail.com
-Office: PQ822, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
+*Email: hialexlee@hotmail.com
+*Office: PQ822, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
 
 ## Brief Biography
 
