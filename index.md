@@ -35,14 +35,21 @@ His current research interests are Natural language processing(NLP) and Fintech.
 2.  Led 5-people team to develop 3 AI investment research projects and Launch 5 app products. 
 3.  Have 3 years of natural language processing, recommendation algorithm and online real-time model experience.
 
-###### Header 6
+## PROJECT EXPERIENCE
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+*   Listed Company Information Monitoring Alert
+1.  Predicted the emotional index of financial market events base on news. The maximum precision of the emotion prediction reached 90%. With the emotional index of events, the precision of predicting the relative price of stocks to fall was 76%. 
+2.  Released 3 AI products on app based on the warning system, including Information Mines, Inside Investment Margin Trading, Risk Warning Station. 
+3.  The work I led included: business requirements communication, product design, data extraction, model building, optimization, maintenance, effect evaluation and monitoring. 
+
+*  News Recommendation
+1.  Builded customer-stock interest scoring model and recommended customers related news on app based on the model score.
+2.  The effect of the customer-stock interest scoring model: The probability that customers traded their most interested stock reached 41% in the next month, which was about 3.5 times the average transaction rate. The effect of news recommendation: The click rate of news recommended based on the stock interest score model was about 3 times that of control group.
+3.  By tracking recommends (recommended group) and non-recommends (control group), the trading conversion rate, the total number of trades per costumer, the total turnover per costumer and the total amount of commission per costumer, compared with the control group, increased by 50%, 42%, 22%, 27% respectively in 1 month.
+
+*  Stock Diagnosis
+1.  Provided users comprehensive score of stock, diagnostic report and investment reference through combining expert algorithms and XGBoost algorithm which used to predict stock price rise and fall based on a variety of stock factor. 
+2.  As a core algorithm, the stock exchange strategy was launched on app. The percent profitable of predicting relative price of stocks to fall reaches 70% and obtained average monthly PV of 130,000, click rate of 65%, and 3,600 follow investors with turnover of 120 million.
 
 ### There's a horizontal rule below this.
 
