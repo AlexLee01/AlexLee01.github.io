@@ -1,6 +1,6 @@
 title: Jun Li
 logo: /assets/img/logo.png
 description: Jun Li's Homepage
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
