@@ -26,7 +26,7 @@ Natural language processing(NLP) and Fintech.
 
 ### GPA & Honors/Awards
 
-*   3.61 / 4.00 (Top 5%)
+*   3.61 / 4.00 <!-- (Top 5%) -->
 *   Excellent Student of Guangdong Province
 
 ## PROFESSIONAL EXPERIENCE
