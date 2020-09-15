@@ -50,6 +50,7 @@ His current research interests are Natural language processing(NLP) and Fintech.
 *  Stock Diagnosis
 1.  Provided users comprehensive score of stock, diagnostic report and investment reference through combining expert algorithms and XGBoost algorithm which used to predict stock price rise and fall based on a variety of stock factor. 
 2.  As a core algorithm, the stock exchange strategy was launched on app. The percent profitable of predicting relative price of stocks to fall reaches 70% and obtained average monthly PV of 130,000, click rate of 65%, and 3,600 follow investors with turnover of 120 million.
+3.  Honors/Awards: It won the "Intelligent Investment Advisory Golden Fan Award".
 
 ### There's a horizontal rule below this.
 
