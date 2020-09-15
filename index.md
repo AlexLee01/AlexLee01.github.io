@@ -18,10 +18,10 @@ His current research interests are Natural language processing(NLP) and Fintech.
 
 ### Selected Publications
 
-*   **<u>J. Li</u>**, Y. H. Rao (*), F. M. Jin, H. J. Chen, and X. Y. Xiang, **Multi-label Maximum Entropy Model for Social Emotion Classification over Short Text** [J]. **Neurocomputing** (SCI, IF=2.083), 2016.
-*   Y. H. Rao, H. R. Xie (*), **<u>J. Li<u>**, F. M. Jin, F. L. Wang, and Q. Li, **Social emotion classification of short text via topic-level maximum entropy model** [J]. **Information & Management** (SCI, IF=1.865), 2016.
-*   Y. H. Rao, **<u>J. Li (*)</u>**, X. Y. Xiang, and H. R. Xie, **Intensive Maximum Entropy Model for Sentiment Classification of Short Text**, in **DASFAA 2015 Workshops**, Lecture Notes in Computer Science 9052, EI, pp. 42-51, 2015.
-*   Z. W. Wu, Y. H. Rao (*), X. Li, **<u>J. Li<u>**, H. R. Xie, and F. L. Wang, **Sentiment Detection of Short Text via Probabilistic Topic Modeling**, in **DASFAA 2015 Workshops**, Lecture Notes in Computer Science 9052, EI, pp. 76-85, 2015, **best paper**.
+*   **<u> J. Li </u>**, Y. H. Rao (*), F. M. Jin, H. J. Chen, and X. Y. Xiang, **Multi-label Maximum Entropy Model for Social Emotion Classification over Short Text** [J]. **Neurocomputing** (SCI, IF=2.083), 2016.
+*   Y. H. Rao, H. R. Xie (*), **<u> J. Li </u>**, F. M. Jin, F. L. Wang, and Q. Li, **Social emotion classification of short text via topic-level maximum entropy model** [J]. **Information & Management** (SCI, IF=1.865), 2016.
+*   Y. H. Rao, **<u> J. Li (*)</u>**, X. Y. Xiang, and H. R. Xie, **Intensive Maximum Entropy Model for Sentiment Classification of Short Text**, in **DASFAA 2015 Workshops**, Lecture Notes in Computer Science 9052, EI, pp. 42-51, 2015.
+*   Z. W. Wu, Y. H. Rao (*), X. Li, **</u> J. Li <u>**, H. R. Xie, and F. L. Wang, **Sentiment Detection of Short Text via Probabilistic Topic Modeling**, in **DASFAA 2015 Workshops**, Lecture Notes in Computer Science 9052, EI, pp. 76-85, 2015, **best paper**.
 
 
 #### Header 4
