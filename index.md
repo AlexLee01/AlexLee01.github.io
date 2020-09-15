@@ -23,6 +23,10 @@ His current research interests are Natural language processing(NLP) and Fintech.
 *   Y. H. Rao, **<u> J. Li (*)</u>**, X. Y. Xiang, and H. R. Xie, **Intensive Maximum Entropy Model for Sentiment Classification of Short Text**, in **DASFAA** 2015 Workshops, Lecture Notes in Computer Science 9052, EI, pp. 42-51, 2015.
 *   Z. W. Wu, Y. H. Rao (*), X. Li, **<u> J. Li </u>**, H. R. Xie, and F. L. Wang, **Sentiment Detection of Short Text via Probabilistic Topic Modeling**, in **DASFAA** 2015 Workshops, Lecture Notes in Computer Science 9052, EI, pp. 76-85, 2015, **best paper**.
 
+### GPA & Honors/Awards
+
+*   3.61 / 4.00 (Top 5%)
+*   Excellent Student of Guangdong Province
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -30,12 +34,6 @@ His current research interests are Natural language processing(NLP) and Fintech.
 1.  Applying machine learning to financial area, including **alerting risk stock by analysis of news related listed company**, **recommending costumer news by analysis of news and customers**, **stock diagnosis by analysis of various stock factor**. 
 2.  Led 5-people team to develop 3 AI investment research projects and Launch 5 app products. 
 3.  Have 3 years of natural language processing, recommendation algorithm and online real-time model experience.
-
-### GPA & Honors/Awards
-
-*   3.61 / 4.00 (Top 5%)
-*   Excellent Student of Guangdong Province
-
 
 ###### Header 6
 
