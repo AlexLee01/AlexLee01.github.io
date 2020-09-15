@@ -22,7 +22,7 @@ His current research interests are Natural language processing(NLP) and Fintech.
 
 #### Header 4
 
-*   This is an unordered list following a header.
+*   J. Li, Y. H. Rao (*), F. M. Jin, H. J. Chen, and X. Y. Xiang, Multi-label Maximum Entropy Model for Social Emotion Classification over Short Text [J]. Neurocomputing (SCI, IF=2.083), 2016.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
