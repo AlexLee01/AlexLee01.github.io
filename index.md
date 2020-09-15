@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Correspondence
+## Correspondence
 
 *   Email: hialexlee@hotmail.com
 *   Office: PQ822, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
@@ -16,7 +16,7 @@ He completed his Master degree majoring in software engineering from Sun Yat-sen
 
 His current research interests are Natural language processing(NLP) and Fintech.
 
-### Selected Publications
+## Selected Publications
 
 *   **<u> J. Li </u>**, Y. H. Rao (*), F. M. Jin, H. J. Chen, and X. Y. Xiang, **Multi-label Maximum Entropy Model for Social Emotion Classification over Short Text** [J]. **Neurocomputing** (SCI, IF=2.083), 2016.
 *   Y. H. Rao, H. R. Xie (*), **<u> J. Li </u>**, F. M. Jin, F. L. Wang, and Q. Li, **Social emotion classification of short text via topic-level maximum entropy model** [J]. **Information & Management** (SCI, IF=1.865), 2016.
@@ -24,10 +24,10 @@ His current research interests are Natural language processing(NLP) and Fintech.
 *   Z. W. Wu, Y. H. Rao (*), X. Li, **</u> J. Li <u>**, H. R. Xie, and F. L. Wang, **Sentiment Detection of Short Text via Probabilistic Topic Modeling**, in **DASFAA 2015 Workshops**, Lecture Notes in Computer Science 9052, EI, pp. 76-85, 2015, **best paper**.
 
 
-#### Header 4
+## PROFESSIONAL EXPERIENCE
 
- 
-*   This is an unordered list following a header.
+*   Ping An Securities Company Ltd.
+1.  Applying machine learning to financial area, including alerting risk stock by analysis of news related listed company, recommending costumer news by analysis of news and customers, stock diagnosis by analysis of various stock factor. 
 
 ##### Header 5
 
