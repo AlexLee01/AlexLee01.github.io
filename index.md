@@ -32,7 +32,7 @@ Natural language processing(NLP) and Fintech.
 ## PROFESSIONAL EXPERIENCE
 
 *   Ping An Securities Company Ltd.
-1.  Applying machine learning to financial area, including **alerting risk stock by analysis of news related listed company**, **recommending costumer news by analysis of news and customers**, **stock diagnosis by analysis of various stock factor**. 
+1.  Applying machine learning to financial area, including alerting risk stock by analysis of news related listed company, recommending costumer news by analysis of news and customers, stock diagnosis by analysis of various stock factor. 
 2.  Led 5-people team to develop 3 AI investment research projects and Launch 5 app products. 
 3.  Have 3 years of natural language processing, recommendation algorithm and online real-time model experience.
 
