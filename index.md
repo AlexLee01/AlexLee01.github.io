@@ -15,7 +15,7 @@ Jun Li is now a Research Assistant in the department of computing at The Hong Ko
 He completed his Master degree majoring in software engineering from Sun Yat-sen University (SYSU) in August 2016. His supervisor was [Prof. Yanghui Rao](https://bda.pku.edu.cn/systd/aszbmck/jhytpjys/gqa_20180702093709523592/index.htm). After graduation from SYSU, he joined in Ping An Securities and worked as an algorithm engineer for three years.
 
 ## Research Interests
-Natural language processing(NLP) and Fintech.
+Natural Language Processing, Sentiment Detection, Machine Learning, FinTech.
 
 ## Selected Publications
 
@@ -31,7 +31,7 @@ Natural language processing(NLP) and Fintech.
 
 ## PROFESSIONAL EXPERIENCE
 
-*   Ping An Securities Company Ltd.
+*   Algorithm engineer in Ping An Securities Company Ltd.
 1.  Applying machine learning to financial area, including alerting risk stock by analysis of news related listed company, recommending costumer news by analysis of news and customers, stock diagnosis by analysis of various stock factor. 
 2.  Led 5-people team to develop 3 AI investment research projects and Launch 5 app products. 
 3.  Have 3 years of natural language processing, recommendation algorithm and online real-time model experience.
