@@ -31,13 +31,12 @@ Natural Language Processing, Sentiment Detection, Machine Learning, FinTech.
 
 ## PROFESSIONAL EXPERIENCE
 
+*   Research Assistant in The Hong Kong Polytechnic University
+1.  Predict suicidal attempters via social media data(from Collaborative Research Fund)
 *   Algorithm engineer in Ping An Securities Company Ltd.
 1.  Applying machine learning to financial area, including alerting risk stock by analysis of news related listed company, recommending costumer news by analysis of news and customers, stock diagnosis by analysis of various stock factor. 
 2.  Led 5-people team to develop 3 AI investment research projects and Launch 5 app products. 
 3.  Have 3 years of natural language processing, recommendation algorithm and online real-time model experience.
-*   Research Assistant in The Hong Kong Polytechnic University
-1.  Predict suicidal attempters via social media data(from Collaborative Research Fund)
-
 
 ## PROJECT EXPERIENCE
 
