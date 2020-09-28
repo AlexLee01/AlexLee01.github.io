@@ -36,7 +36,7 @@ Natural Language Processing, Sentiment Detection, Machine Learning, FinTech.
 2.  Led 5-people team to develop 3 AI investment research projects and Launch 5 app products. 
 3.  Have 3 years of natural language processing, recommendation algorithm and online real-time model experience.
 *   Research Assistant in The Hong Kong Polytechnic University
-1.  Suicidal Attempters Prediction(from Collaborative Research Fund)
+1.  Predict suicidal attempters via social media data(from Collaborative Research Fund)
 
 
 ## PROJECT EXPERIENCE
