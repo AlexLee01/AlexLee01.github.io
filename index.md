@@ -31,11 +31,11 @@ Natural Language Processing, Sentiment Detection, Machine Learning, FinTech.
 
 ## PROFESSIONAL EXPERIENCE
 
-*   The Hong Kong Polytechnic University, Hong Kong
-Research Assistant
+*   The Hong Kong Polytechnic University, Hong Kong  
+Research Assistant  
 Topic: Event Cube: A Framework for Multi-sourced Event Detection and Multi-Dimensional Analysis
-*   Algorithm engineer in Ping An Securities Company Ltd., Shen Zhen, China
-Algorithm Engineer
+*   Algorithm engineer in Ping An Securities Company Ltd., Shen Zhen, China  
+Algorithm Engineer  
 Job Description: Applying machine learning to financial area, including alerting risk stock by analysis of news related listed company, recommending costumer news by analysis of news and customers, stock diagnosis by analysis of various stock factor. 
 
 ## PROJECT EXPERIENCE
